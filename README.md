@@ -1,4 +1,4 @@
-# CS210 INTRODUCTION TO DATA SCIENCE PROJECT
+# Speed Dating
 
 This project is based on Kaggle "Speed Dating" dataset.
 
